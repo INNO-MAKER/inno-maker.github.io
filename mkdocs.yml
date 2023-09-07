@@ -1,0 +1,6 @@
+site_name: InnoMaker
+site_url: 
+theme:
+  name: readthedocs
+copyright: |
+  &copy; 2023 <a href="https://www.inno-maker.com"  target="_blank" rel="noopener">InnoMaker</a>
