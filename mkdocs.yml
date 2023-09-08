@@ -1,4 +1,6 @@
 site_name: InnoMaker
+Page:
+
 site_url: 
 theme:
   name: readthedocs

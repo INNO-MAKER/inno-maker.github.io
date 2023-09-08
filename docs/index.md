@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Welcome to InnoMaker Wiki
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Please visit our official shop if you have any product request. [InnoMaker](https://www.inno-maker.com)
 
-## Commands
+
+## Product Catagaries
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## Contact Information
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* [Support@inno-maker.com](Support@inno-maker.com)
+* [sales@inno-maker.com](sales@inno-maker.com)
