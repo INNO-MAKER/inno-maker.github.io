@@ -1,4 +1,6 @@
-# Welcome to InnoMaker Wiki
+# Home
+
+## Welcome To InnoMaker Wiki
 
 Please visit our official shop if you have any product request. [InnoMaker](https://www.inno-maker.com)
 

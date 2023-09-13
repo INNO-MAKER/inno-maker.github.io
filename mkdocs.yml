@@ -3,11 +3,11 @@ site_url: https://wiki.inno-maker.com
 ### Navigation
 Nav:
 - Home: index.md
-- About: about.md
-- Install: install.md
-- Documents:
-  -  Usage: usage.md
-  -  Tutorial: tutorial.md
+- Raspberry PI Series: Raspberry PI Series
+- USB Cameras: USB Cameras.md
+- USB Logic Analyzer: USB Logic Analyzer
+- USB TO CAN: USB TO CAN.md
+
 theme:
   name: mkdocs
 
