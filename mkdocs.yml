@@ -1,5 +1,6 @@
 site_name: InnoMaker
 site_url: https://wiki.inno-maker.com
+### Navigation
 Nav:
 - Home: index.md
 - About: about.md
@@ -7,9 +8,8 @@ Nav:
 - Documents:
   -  Usage: usage.md
   -  Tutorial: tutorial.md
-site_url: 
 theme:
-  name: readthedocs
+  name: mkdocs
 
 markdown_extentions:
   - admonition
@@ -19,6 +19,6 @@ plugins:
 
 extra_css:
   - resources/css/extra.css
-  
+
 copyright: |
   &copy; 2023 <a href="https://www.inno-maker.com"  target="_blank" rel="noopener">InnoMaker</a>
