@@ -1,11 +1,11 @@
 # Home
 
-## Welcome To InnoMaker Wiki
+## About
 
 Please visit our official shop if you have any product request. [InnoMaker](https://www.inno-maker.com)
 
 
-## Product Catagaries
+## Products
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
