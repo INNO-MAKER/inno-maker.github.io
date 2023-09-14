@@ -2,27 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://wiki.inno-maker.com/</loc>
-         <lastmod>2023-09-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://wiki.inno-maker.com/Raspberry_PI_Series/</loc>
-         <lastmod>2023-09-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://wiki.inno-maker.com/USB_Cameras/</loc>
-         <lastmod>2023-09-13</lastmod>
+         <lastmod>2023-09-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://wiki.inno-maker.com/USB_Logic_Analyzer/</loc>
-         <lastmod>2023-09-13</lastmod>
+         <lastmod>2023-09-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://wiki.inno-maker.com/USB_TO_CAN/</loc>
-         <lastmod>2023-09-13</lastmod>
+         <loc>https://wiki.inno-maker.com/Raspberry_PI_Series/Raspberry_PI_Series/</loc>
+         <lastmod>2023-09-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.inno-maker.com/USB_Cameras/U20CAM-720P/</loc>
+         <lastmod>2023-09-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.inno-maker.com/USB_Cameras/U20CAM-OV9281/</loc>
+         <lastmod>2023-09-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://wiki.inno-maker.com/USB_TO_CAN/USB_TO_CAN/</loc>
+         <lastmod>2023-09-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
