@@ -7,7 +7,7 @@ nav:
   - Cameras: Raspberry_PI_Series/cameras.md ### 二级标题：目录／文件名
   - Audios: Raspberry_PI_Series/audios.md
 - USB TO CAN: 
-  - USB TO CAN: Raspberry_PI_Series/audios.md
+  - USB TO CAN: USB_TO_CAN/USB_TO_CAN.md
 - USB Cameras: 
   - UVC Series: USB_Cameras/uvc-series.md
   - U3V Series: USB_Cameras/u3v-series.md
@@ -19,6 +19,8 @@ theme:
 
 markdown_extentions:
   - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 plugins:
   - search
