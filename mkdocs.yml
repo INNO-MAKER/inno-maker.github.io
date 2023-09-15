@@ -12,7 +12,7 @@ nav:
   - UVC Series: USB_Cameras/uvc-series.md
   - U3V Series: USB_Cameras/u3v-series.md
 - Brand Products:
-  - USB Logic Analyzer: USB_Logic_Analyzer.md
+  - USB Logic Analyzer: Brand_Products/USB_Logic_Analyzer.md
 
 theme:
   name: mkdocs
