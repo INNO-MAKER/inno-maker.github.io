@@ -1,16 +1,18 @@
 site_name: InnoMaker
 site_url: https://wiki.inno-maker.com
-
 ### Navigation
-Nav:
-- Home: 'index.md'
-- Raspberry PI Series: Raspberry_PI_Series
-- USB Cameras: USB_Cameras.md
-- USB Logic Analyzer: USB_Logic_Analyzer
-- USB TO CAN: /USB_TO_CAN/USB_TO_CAN.md
+nav:
+- Home: index.md
+- Raspberry PI Series: 
+  - Cameras: Raspberry_PI_Series/cameras.md
+  - Audios: Raspberry_PI_Series/audios.md
+- USB TO CAN: 
+  - Audios: Raspberry_PI_Series/audios.md
 - USB Cameras: 
-  -U20CAM-OV9281: 'U20CAM-OV9281.md'
-  -U20CAM-720P: 'U20CAM-720P.md'
+  - UVC Series: USB_Cameras/uvc-series.md
+  - U3V Series: USB_Cameras/u3v-series.md
+- Brand Products:
+  - 'USB_Logic_Analyzer.md'
 
 theme:
   name: mkdocs
