@@ -3,11 +3,11 @@ site_url: https://wiki.inno-maker.com
 ### Navigation
 nav:
 - Home: index.md
-- Raspberry PI Series: 
-  - Cameras: Raspberry_PI_Series/cameras.md
+- Raspberry PI Series:  ###一级标题
+  - Cameras: Raspberry_PI_Series/cameras.md ### 二级标题：目录／文件名
   - Audios: Raspberry_PI_Series/audios.md
 - USB TO CAN: 
-  - Audios: Raspberry_PI_Series/audios.md
+  - USB TO CAN: Raspberry_PI_Series/audios.md
 - USB Cameras: 
   - UVC Series: USB_Cameras/uvc-series.md
   - U3V Series: USB_Cameras/u3v-series.md
